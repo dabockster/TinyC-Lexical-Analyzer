@@ -1,4 +1,4 @@
-TinyC-Lexical-Analyzer
+TinyC Lexical Analyzer
 ======================
 
 This program is an attempt at writing a lexical analyzer for a hypothetical programming language called TinyC.
